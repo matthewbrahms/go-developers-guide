@@ -14,6 +14,7 @@ func main() {
 		"http://golang.org",
 		"http://amazon.com",
 		"http://indeed.com",
+		"http://application.rategenius.com",
 	}
 
 	c := make(chan string)
